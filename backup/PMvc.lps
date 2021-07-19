@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="PMvc.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="23"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="u_mvc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="U_mvc"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="94"/>
+        <CursorPos X="41" Y="100"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="ucanvasdemo.pas"/>
+        <ComponentName Value="frmGraphics"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uCanvasDemo"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="140"/>
+        <CursorPos X="3" Y="177"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="/usr/lib/lazarus/2.0.0/lcl/graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <TopLine Value="2229"/>
+        <CursorPos X="15" Y="1118"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/lib/lazarus/2.0.0/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="2301"/>
+        <CursorPos X="15" Y="2314"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="54" Column="3" TopLine="39"/>
+      </Position1>
+      <Position2>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="55" Column="3" TopLine="40"/>
+      </Position2>
+      <Position3>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="62" Column="55" TopLine="40"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ucanvasdemo.pas"/>
+        <Caret Line="16" Column="54" TopLine="8"/>
+      </Position4>
+      <Position5>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="67" TopLine="46"/>
+      </Position5>
+      <Position6>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="76" Column="31" TopLine="47"/>
+      </Position6>
+      <Position7>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="93" Column="69" TopLine="64"/>
+      </Position7>
+      <Position8>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="71" Column="73" TopLine="48"/>
+      </Position8>
+      <Position9>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="44" Column="30" TopLine="58"/>
+      </Position9>
+      <Position10>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="29" Column="42" TopLine="10"/>
+      </Position10>
+      <Position11>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="108" Column="64" TopLine="88"/>
+      </Position11>
+      <Position12>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="30" Column="24" TopLine="76"/>
+      </Position12>
+      <Position13>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="83" Column="56" TopLine="79"/>
+      </Position13>
+      <Position14>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="87" Column="21" TopLine="72"/>
+      </Position14>
+      <Position15>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="89" Column="40" TopLine="72"/>
+      </Position15>
+      <Position16>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="30" Column="23" TopLine="8"/>
+      </Position16>
+      <Position17>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="89" Column="22" TopLine="68"/>
+      </Position17>
+      <Position18>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="116" Column="8" TopLine="98"/>
+      </Position18>
+      <Position19>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="31" Column="31" TopLine="5"/>
+      </Position19>
+      <Position20>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="32" Column="23" TopLine="19"/>
+      </Position20>
+      <Position21>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="33" Column="53" TopLine="20"/>
+      </Position21>
+      <Position22>
+        <Filename Value="ucanvasdemo.pas"/>
+        <Caret Line="179" Column="20" TopLine="152"/>
+      </Position22>
+      <Position23>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="97" Column="61" TopLine="78"/>
+      </Position23>
+      <Position24>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="96" Column="42" TopLine="85"/>
+      </Position24>
+      <Position25>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="46" Column="3" TopLine="76"/>
+      </Position25>
+      <Position26>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="103" Column="42" TopLine="82"/>
+      </Position26>
+      <Position27>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="105" Column="52" TopLine="86"/>
+      </Position27>
+      <Position28>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="106" Column="52" TopLine="87"/>
+      </Position28>
+      <Position29>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="105" Column="52" TopLine="86"/>
+      </Position29>
+      <Position30>
+        <Filename Value="u_mvc.pas"/>
+        <Caret Line="99" Column="41" TopLine="93"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

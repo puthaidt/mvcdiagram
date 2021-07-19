@@ -1,0 +1,23 @@
+object frmGraphics: TfrmGraphics
+  Left = 360
+  Height = 600
+  Top = 90
+  Width = 600
+  Caption = 'Graphics'
+  ClientHeight = 600
+  ClientWidth = 600
+  Color = clBtnFace
+  Font.Color = clWindowText
+  Font.Height = -13
+  Font.Name = 'MS Sans Serif'
+  LCLVersion = '2.0.0.4'
+  object Button1: TButton
+    Left = 76
+    Height = 83
+    Top = 54
+    Width = 140
+    Caption = 'Button1'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+end
